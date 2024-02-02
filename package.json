@@ -661,15 +661,15 @@
     "mocha": "^6.2.2",
     "prettier": "^2.0.5",
     "typescript": "^3.5.2",
-    "vsce": "^1.93.0",
-    "vscode-test": "^1.0.2"
+    "vsce": "^2.15.0",
+    "vscode-test": "^1.6.1"
   },
   "dependencies": {
     "axios": "0.21.1",
     "jsonc-parser": "~2.1.0",
-    "vscode-debugadapter": "^1.19.0",
+    "vscode-debugadapter": "^1.51.0",
     "vscode-debugprotocol": "^1.19.0",
-    "vscode-extension-telemetry": "0.1.2",
+    "vscode-extension-telemetry": "0.4.5",
     "vscode-languageclient": "^5.2.1"
   }
 }
